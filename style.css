@@ -1,0 +1,45 @@
+*{
+	border: 1px black solid;
+}
+@import url('https://fonts.googleapis.com/css?family=PT Serif+27px'); 
+
+body{
+	font-family: 'PT Serif', sans-serif;
+	font-size: 20px;
+}
+
+
+figure{
+	display: inline-block;
+
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 10px;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+article.logo {
+	display: inline-block;
+}
+
+article.caja {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 9px 9px 9px;
+	background-color: Gainsboro;
+}
+
+article caja3{
+	background-color: LightCyan;
+}
+
+section{
+	text-align: center;
+}
